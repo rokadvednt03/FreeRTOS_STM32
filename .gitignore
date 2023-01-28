@@ -1,0 +1,8 @@
+/.settings
+/Core
+/Debug
+.cproject
+.project
+.mxproject
+stm32f103c8t6_rtos.ioc
+STM32F103C8TX_FLASH.ld
