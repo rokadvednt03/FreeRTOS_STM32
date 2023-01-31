@@ -54,6 +54,7 @@
 #define configIDLE_SHOULD_YIELD		1
 #define configALLOW_UNPRIVILEGED_CRITICAL_SECTIONS             1
 #define configENFORCE_SYSTEM_CALLS_FROM_KERNEL_ONLY            1
+#define configSUPPORT_DYNAMIC_ALLOCATION 1
 /* Co-routine definitions. */
 #define configUSE_CO_ROUTINES 		0
 #define configMAX_CO_ROUTINE_PRIORITIES ( 2 )
